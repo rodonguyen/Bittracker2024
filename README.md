@@ -11,9 +11,11 @@ Here is a demo screenshot of Supertrend Indicator in TradingView. `Buy` is place
 
 Code modified from youtube. com/ watch?v=1PEyddA1y5E
 
-## [Analysis code 🔗](sandbox/analyse_backtest_result.ipynb)
+## [Analysis code 🔗](experiment\2_analyse_backtest_result\analyse_backtest_result_2023.ipynb)
 
-## [Blogs 🔗](https://rodonguyen.medium.com/)
+[View here](experiment\2_analyse_backtest_result\analyse_backtest_result_2023.ipynb)
+
+## Blogs 🔗
 
 I'm in the process of writing blogs to share about BitTracker, you can read it here: [A Trading Bot for Cryptocurrency - BitTracker (P.1)](https://rodonguyen.medium.com/a-trading-bot-for-cryptocurrency-bittracker-p-1-f0c211134c47)
 
