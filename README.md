@@ -11,7 +11,7 @@ Here is a demo screenshot of Supertrend Indicator in TradingView. `Buy` is place
 
 Code modified from youtube. com/ watch?v=1PEyddA1y5E
 
-## [Analysis code 🔗](experiment\2_analyse_backtest_result\analyse_backtest_result_2023.ipynb)
+## [Analysis code 🔗](experiment/2_analyse_backtest_result/analyse_backtest_result_2023.ipynb)
 
 [View here](experiment\2_analyse_backtest_result\analyse_backtest_result_2023.ipynb)
 
