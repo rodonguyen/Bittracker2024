@@ -13,8 +13,8 @@ Code modified from youtube. com/ watch?v=1PEyddA1y5E
 
 ## [Analysis code 🔗](experiment/2_analyse_backtest_result/analyse_backtest_result_2023.ipynb)
 
-[View here](experiment/2_analyse_backtest_result/analyse_backtest_result_2023.ipynb)
-Go to these sections:
+[View here](experiment/2_analyse_backtest_result/analyse_backtest_result_2023.ipynb)  
+Go to these sections:  
 - Analyse backtest result distribution, pick top configs with highest risk-adjusted returns
 - Backtest result and analysis
 
